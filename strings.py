@@ -7,4 +7,25 @@ This is a message from Dare to Dream Studios
 
 ...
 """
-print(course_name, message)
+
+#string length command
+print(len(message))
+
+#index
+print(course_name[0])
+
+#negative index
+print(course_name[-1])
+
+#ranged index
+print(course_name[0:3])
+
+#or
+
+print(course_name[:3])
+
+#print the word from the word_count (increase in number = more omission of letters)
+print(course_name[7:])
+
+#empty index range_prints initial string
+print(course_name[:])
