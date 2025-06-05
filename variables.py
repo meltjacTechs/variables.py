@@ -1,4 +1,5 @@
-# Basics of Python variables
+# Basics of Python Variables
+# Variables descriptive and meaningful
 
 students_count = 1000
 rating = 4.99
